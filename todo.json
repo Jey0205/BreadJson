@@ -1,0 +1,30 @@
+[
+   {
+      "string": "Testing Data",
+      "integer": 12,
+      "float": 1.45,
+      "date": "2000-11-12",
+      "boolean": false
+   },
+   {
+      "string": "Coba Lagi",
+      "integer": 99,
+      "float": 100.405,
+      "date": "2000-11-12",
+      "boolean": false
+   },
+   {
+      "string": "Super Sekali",
+      "integer": 0,
+      "float": 1.45,
+      "date": "",
+      "boolean": false
+   },
+   {
+      "string": "dawd",
+      "integer": "21",
+      "float": "21.5",
+      "date": "2005-11-22",
+      "boolean": "true"
+   }
+]
